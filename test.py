@@ -1,3 +1,1 @@
-import discord
-
 print("hello")
